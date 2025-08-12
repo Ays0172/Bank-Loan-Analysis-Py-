@@ -98,13 +98,13 @@ Horizontal bar charts to compare lending metrics across different states.
 # Code for Total Recovered Amount by State chart
 # ... (insert the relevant Python code block here)
 ```
-![Total Recovered Amount by State Bar Chart](images5.png)
+![Total Recovered Amount by State Bar Chart](images/output.png)
 
 ```python
 # Code for Count of Fully Paid Loans by State chart
 # ... (insert the relevant Python code block here)
 ```
-![Count of Fully Paid Loans by State Bar Chart](images/6t.png)
+![Count of Fully Paid Loans by State Bar Chart](images/6.png)
 
 
 ### 3. Loan Term Analysis
@@ -114,7 +114,7 @@ A donut chart to show the distribution of received amounts by loan term.
 # Code for Total Received Amounts by Term chart
 # ... (insert the relevant Python code block here)
 ```
-![Total Received Amounts by Term Donut Chart](images/term_received_amount_donut.png)
+![Total Received Amounts by Term Donut Chart](images/7.png)
 
 
 ### 4. Employee Length Analysis
@@ -140,7 +140,7 @@ A bar chart showing the primary reasons borrowers seek financing.
 # Code for Total Returned Amount by Loan Purpose chart
 # ... (insert the relevant Python code block here)
 ```
-![Total Returned Amount by Loan Purpose Bar Chart](images/purpose_returned_amount.png)
+![Total Returned Amount by Loan Purpose Bar Chart](images/8.png)
 
 
 ### 6. Home Ownership Analysis
