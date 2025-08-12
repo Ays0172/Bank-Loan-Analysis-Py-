@@ -81,13 +81,14 @@ An area chart to show trends in loan applications and funding over time.
 # Code for Monthly Funded Loan Amounts chart
 # ... (insert the relevant Python code block here)
 ```
-![Monthly Funded Loan Amounts Area Chart](images/monthly_funded_loan_amounts.png)
+![Monthly Funded Loan Amounts Area Chart](images/1.png)
+
 
 ```python
 # Code for Monthly Loan Application Count chart
 # ... (insert the relevant Python code block here)
 ```
-![Monthly Loan Application Count Area Chart](images/loan_application_count.png)
+![Monthly Loan Application Count Area Chart](images/3.png)
 
 
 ### 2. Regional Analysis by State
@@ -97,13 +98,13 @@ Horizontal bar charts to compare lending metrics across different states.
 # Code for Total Recovered Amount by State chart
 # ... (insert the relevant Python code block here)
 ```
-![Total Recovered Amount by State Bar Chart](images/state_recovered_amount.png)
+![Total Recovered Amount by State Bar Chart](images5.png)
 
 ```python
 # Code for Count of Fully Paid Loans by State chart
 # ... (insert the relevant Python code block here)
 ```
-![Count of Fully Paid Loans by State Bar Chart](images/state_fully_paid_count.png)
+![Count of Fully Paid Loans by State Bar Chart](images/6t.png)
 
 
 ### 3. Loan Term Analysis
